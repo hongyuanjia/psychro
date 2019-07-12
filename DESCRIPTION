@@ -1,0 +1,17 @@
+Package: psychro
+Title: Tools to calculate psychrometric states of air.
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "Hongyuan",
+           family = "Jia",
+           role = c("aut", "cre"),
+           email = "hongyuan.jia@bears-berkeley.com",
+           comment = c(ORCID = "0000-0002-0075-8183"))
+Description: Provides tools for performing psychrometric calculations, according
+    to the EnergyPlus Psychrometrics module which references the 2005 ASHRAE
+    Handbook of Fundamentals.
+URL: https://github.com/hongyuanjia/psychro
+License: MIT
+Encoding: UTF-8
+VignetteBuilder: knitr
+LazyData: true
